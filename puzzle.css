@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+.coverer
+{
+  width:600px;
+  height:760px;
+}
+
+.red
+{
+   background-color:#ca1019;
+   height:180px;
+}
+
+.wrapper
+{
+   height:480px;
+   display:flex;
+   flex-wrap:wrap;
+}
+
+.green
+{
+    background-color:#14865f;
+    width:420px;
+}
+.blue
+{
+    background-color:#2935a8;
+    width:180px;
+}
+
+.yellow
+{
+    background-color:#f4d508;
+    height:100px;
+}
